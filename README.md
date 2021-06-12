@@ -11,3 +11,5 @@ A multi-year analysis in the annual Accelerate State of DevOps Report has found 
 
 Gets You to Focus on What Matters Most: People
 People, not tools, are the most important component of a DevOps initiative. Key roleplayers (i.e., humans) can greatly increase your odds of success, such as a DevOps evangelist, a persuasive leader who can explain the business benefits brought by the greater agility of DevOps practices and eradicate misconceptions and fears. And since automated systems are crucial to DevOps success, an automation specialist can develop strategies for continuous integration and deployment, ensuring that production and pre-production systems are fully software-defined, flexible, adaptable and highly available
+
+This is a line which represents local changes 2
